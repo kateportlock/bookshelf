@@ -4,7 +4,7 @@ BookShelf is an app designed to search books from the Google Books API. The home
 
 This app has been developed using React JS, React Hooks, and React Router. Its design is based on the use of CSS Grid Layout and Flexbox, making all pages of the app mobile-responsive.
 
-Mini demo gif is shown below:
+Demo gif:
 
 ![demo](demo.gif)
 
